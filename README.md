@@ -1,2 +1,0 @@
-# task1.cpp
-NUMBER GUESSING GAME
