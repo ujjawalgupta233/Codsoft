@@ -1,17 +1,1 @@
-//Hello world
-Author Ujjawal Gupta
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Id and classes</title>
-</head>
-<body>
-  <details>
-    <summary>About us</summary>
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati et tenetur magni itaque nobis dolores distinctio eius quidem similique quasi tempora, laborum consectetur perferendis, quia, deleniti consequuntur maxime omnis. Lorem ipsum dolor sit amet consectetur adipisicing elit. At id minima voluptas ipsam praesentium reiciendis quaerat dolorem. Magnam accusantium error obcaecati. Culpa quibusdam officiis perferendis deserunt aspernatur corporis alias assumenda animi vitae, in recusandae ipsum architecto est fugiat, illum quod.
-  </details>
 
-</body>
-</html>
